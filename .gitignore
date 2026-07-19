@@ -19,5 +19,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# cat_dog images folder
-Deep-Learning/CNN/cat_dog data/PEtImages/
+# saved model
+*.keras
+*.h5
