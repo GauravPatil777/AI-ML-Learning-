@@ -22,3 +22,5 @@ Thumbs.db
 # saved model
 *.keras
 *.h5
+# requirements
+requirements.txt
