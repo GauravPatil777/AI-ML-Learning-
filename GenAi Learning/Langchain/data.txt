@@ -1,0 +1,14 @@
+Artificial intelligence is a field of computer science that focuses on
+creating systems capable of performing tasks that normally require human
+intelligence. These tasks include learning, reasoning, problem solving,
+understanding natural language, recognizing images, and making decisions.
+
+Machine learning is a major part of artificial intelligence. Instead of
+being explicitly programmed for every task, machine learning systems learn
+patterns from data. Deep learning is a subset of machine learning that uses
+neural networks with multiple layers to learn complex patterns.
+
+Large language models are deep learning models trained on huge amounts of
+text. They can understand and generate human-like text. Models such as
+modern generative AI systems can be used for summarization, question
+answering, translation, coding, and many other tasks.
