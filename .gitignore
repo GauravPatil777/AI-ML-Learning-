@@ -24,6 +24,3 @@ Thumbs.db
 *.h5
 # requirements
 requirements.txt
-
-# chatbot langgraph db
-chatbot_db*
